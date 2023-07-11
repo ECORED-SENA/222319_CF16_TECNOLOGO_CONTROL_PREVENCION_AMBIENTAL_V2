@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/15.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La comunicación se convierte en la herramienta más necesaria para realizar un proceso de educación ambiental; esta debe ser en doble vía y eminentemente asertiva para que la retroalimentación y el mensaje lleguen con efectividad. Para tener en cuenta cómo influye de manera importante la comunicación en los diversos procesos de promotoría ambiental, es necesario partir del concepto de comunicación. Según Gambini et al., (2018, p. 10), #[b.t1 “la palabra deriva del latín communicare, que significa “compartir algo, poner en común”.] 
+        p.mb-0 La comunicación se convierte en la herramienta más necesaria para realizar un proceso de educación ambiental; esta debe ser en doble vía y eminentemente asertiva para que la retroalimentación y el mensaje lleguen con efectividad. Para tener en cuenta cómo influye de manera importante la comunicación en los diversos procesos de promotoría ambiental, es necesario partir del concepto de comunicación. Según Gambini et al., (2018, p. 10), #[b.t1 “la palabra deriva del latín #[i communicare], que significa “compartir algo, poner en común”.] 
 
     .row.mb-5.text-center
       .col-sm-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-right")
@@ -22,7 +22,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/16.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Proceso natural
-              p Por lo tanto, la comunicación es un fenómeno inherente a la relación que los seres vivos mantienen cuando se encuentran en grupo.
+              p La comunicación es un fenómeno inherente a la relación que los seres vivos mantienen cuando se encuentran en grupo. 
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -30,7 +30,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/17.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Proceso dinámico
-              p La comunicación es un proceso que se inicia en la intención de una persona, quien construirá un mensaje y lo transmitirá por un canal apropiado; luego, la otra persona decodificará el mensaje para comprenderlo. A su vez, esta persona receptora puede convertirse en un nuevo emisor.
+              p La comunicación es un proceso que se inicia en la intención de una persona, quien construirá un mensaje y lo transmitirá por un canal apropiado; luego, la otra persona decodificará el mensaje para comprenderlo. A su vez, esta persona receptora puede convertirse en un nuevo emisor. 
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -38,7 +38,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/18.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Proceso dinamizador
-              p De esta manera, una vez que se participa en una relación comunicativa, esta estará actualizándose mediante el permanente intercambio de roles de emisor y receptor.   
+              p Una vez que se participa en una relación comunicativa, esta estará actualizándose mediante el permanente intercambio de roles de emisor y receptor.
 
     .row.justify-content-start.mb-4        
       .col-auto.bg4.p-3(data-aos="flip-down")
@@ -130,7 +130,7 @@
               img.img-mov(src="@/assets/curso/temas/27.png")
               
             .col-md-7.mb-4.mb-md-0
-              p Se refiere al ambiente físico, la situación social y el estado psicológico en que se encuentran emisor y receptor en el momento de la comunicación. (p. 17).
+              p Se refiere al ambiente físico, la situación social y el estado psicológico en que se encuentran emisor y receptor en el momento de la comunicación. 
 
     .row.justify-content-start.mb-4        
       .col-auto.bg4.p-3(data-aos="flip-down")
@@ -149,10 +149,10 @@
       SlyderA(tipo="b")
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
-            h4 La exposición.  
+            h4 La exposición 
             p “Se puede decir que la exposición académica es aquella presentación oral que se realiza en un contexto académico (aula de la universidad, conferencia, etc.) con la principal intención de dar a conocer un tema específico siguiendo un orden (introducción, desarrollo y conclusión), utilizando un lenguaje formal” (Gambini et al., 2018, p. 88).  
             h5 Las principales características de la exposición académica son:  
-            ul.lista-ul 
+            ul.lista-ul.fa-ul 
               li 
                 i.fas.fa-check.c1
                 | Cumple una función referencial (informa o explica un tema). 
@@ -166,7 +166,7 @@
                 i.fas.fa-check.c1
                 | Manejo de vocabulario científico y técnico referente al tema.             
           .col-lg-5.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/30.png', alt='')  
+            img.img-a.img-t(src='@/assets/curso/temas/30.png')  
 
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
@@ -175,14 +175,14 @@
 
             p Dentro de las características más sobresalientes del debate, está la de ofrecer información y actualización de opiniones y puntos de vista significativos para el auditorio. También, el debate aumenta la fluidez del diálogo gracias a la reducción del número de expertos. Finalmente, el debate permite un repaso exhaustivo de las posturas de los especialistas. 
           .col-lg-5.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/31.png', alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/31.png') 
 
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 La mesa redonda 
             p Una de las técnicas más empleadas para compartir ideas y debatirlas en pro de un objetivo común es la mesa redonda, y, según Gambini et al. (2018, p. 114), “es una técnica donde se presentan diferentes puntos de vista, no necesariamente contradictorios, acerca de un tema determinado, ante un público y con la ayuda de un moderador”. 
-            h5 Las principales características de la exposición académica son: 
-            ul.lista-ul 
+            h5 La mesa redonda, entre otros, tiene como objetivos fundamentales:
+            ul.lista-ul.fa-ul 
               li 
                 i.fas.fa-check.c1
                 | Fomentar el diálogo entre los participantes para desarrollar el tema desde diferentes áreas o puntos de vista. 
@@ -190,14 +190,14 @@
                 i.fas.fa-check.c1
                 | Facilitar el interés hacia determinadas cuestiones, motivando a la investigación o a la acción y búsqueda de soluciones.                               
           .col-lg-5.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/32.png', alt='')      
+            img.img-a.img-t(src='@/assets/curso/temas/32.png')      
 
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 El foro 
             p Se trata de una técnica en la cual varias personas discuten un tema determinado, ante un auditorio, bajo la conducción de un coordinador. Suele utilizarse como complemento de otras técnicas previas (panel, conferencia, etc.), dando lugar, en ocasiones, a otras técnicas específicas (cinefórum, discofórum, etc.). (Gambini et al., 2018, p. 115). 
             h5 Mediante el foro, y más aún en el contexto de una campaña ambiental, es posible:  
-            ul.lista-ul 
+            ul.lista-ul.fa-ul 
               li 
                 i.fas.fa-check.c1
                 | Desarrollar una deliberación sistemática sobre el tema previamente considerado. 
@@ -211,7 +211,7 @@
                 i.fas.fa-check.c1
                 | Aumentar la transmisión de información.             
           .col-lg-5.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/33.png', alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/33.png') 
 
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
@@ -223,7 +223,7 @@
                   span #[b Ver Información]
                   .indicador--click(v-if="mostrarIndicador")             
           .col-lg-5.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/34.png') 
 
     ModalA(:abrir-modal.sync="modal1") 
       .row.justify-content-center
@@ -251,7 +251,9 @@
                   img(src="@/assets/curso/temas/37.png", alt="alt").img100
               .col
                 h5 26 de enero
-                p.mb-0 Según el portal www.comunidadism.es (2020), el día 26 de enero se celebra el «Día Mundial de la Educación Ambiental», que tiene su origen en 1975, año en que se celebró en Belgrado (capital de la República de Serbia), el Seminario Internacional de Educación Ambiental, donde participaron expertos de más de 70 países. 
+                p.mb-0 Según el portal 
+                  a(href="https://www.comunidadism.es/" target="_blank") www.comunidadism.es
+                  |  (2020), el día 26 de enero se celebra el «Día Mundial de la Educación Ambiental», que tiene su origen en 1975, año en que se celebró en Belgrado (capital de la República de Serbia), el Seminario Internacional de Educación Ambiental, donde participaron expertos de más de 70 países. 
           .crd.crd--avatarHorizontal.py-4
             .row.align-items-center
               .col-auto

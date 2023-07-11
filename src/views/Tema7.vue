@@ -15,9 +15,8 @@
       .col-lg-6.my-3
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
             p.mb-0 Es considerada como una constitución verde, al recoger las principales preocupaciones de los movimientos ambientalistas y compromisos que se asumirían posteriormente en la Conferencia de las Naciones Unidas sobre el Medio Ambiente y el Desarrollo (1992), la Agenda 21 y la firma de importantes convenios y tratados internacionales en materia de protección ambiental, como el Convention on Biological Diversity (s. f.), donde se considera que los derechos colectivos y de medio ambiente son interdependientes con los derechos fundamentales, como el derecho a la vida digna, a la salud, entre otros. De allí que se conciban la defensa y protección ambiental como un derecho, no solo para las generaciones presentes, sino también para las generaciones venideras. 
-            i.fas.fa-quote-right      
+     
 
     .row.justify-content-start.mb-4        
       .col-auto.bg4.p-3(data-aos="flip-down")
@@ -51,7 +50,7 @@
               img.img-mov(src="@/assets/curso/temas/81.png")
               
             .col-md-7.mb-4.mb-md-0
-              p Las actividades para el trabajo con estos grupos son: definir el tema de interés, seleccionar o vincular los participantes, desarrollar, sistematizar y evaluar el taller (Geilfus, 1998).  
+              p Las actividades para el trabajo con estos grupos son: definir el tema de interés, seleccionar o vincular los participantes, desarrollar, sistematizar y evaluar el taller.  
           .row(titulo="Discusión, participación, articulación")
             .col-md-5     
               img.img-mov(src="@/assets/curso/temas/82.png")
@@ -199,21 +198,24 @@
             h4 Corresponsabilidad de los actores    
             p Al interior de las diferentes instancias, existen espacios que promueven la corresponsabilidad de los actores, la planeación participativa, el ejercicio del derecho a la participación y el diálogo de saberes. Es deber de cada miembro de la comunidad vincularse con los diferentes actores y es deber de las instituciones generar las condiciones para brindar los espacios de participación para que la voz de las comunidades y de la naturaleza se escuche de manera efectiva. Considerar la participación como un servicio público permite construir y fortalecer la democracia.           
           .col-lg-7.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/88.png', alt='')  
+            img.img-a.img-t(src='@/assets/curso/temas/88.png')  
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Instancias contempladas por la Ley   
             p Dentro de las instancias, en cuanto a la gestión ambiental definidas por la ley, se tiene: conformar y hacer parte de organizaciones no gubernamentales (ONG), organizaciones comunitarias (Juntas de acción comunal, grupos ecológicos, entre otros), organizaciones étnico-territoriales, veedurías ciudadanas, entre otras; integrar los consejos comunitarios de grupos étnicos, resguardos indígenas, entre otros; integrar los consejos directivos de las CAR, los Consejos Ambientales Regionales, Concejos territoriales de Planeación, Comisiones Ambientales Locales, entre otros (Lora et al., 2008. p 108).          
           .col-lg-7.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/89.png', alt='')  
+            img.img-a.img-t(src='@/assets/curso/temas/89.png')  
         .row.justify-content-center.mt-3
-          .col-lg-4.mb-4.mb-md-0.my-3
+          .col-11
             h4 Actores en instancias institucionales y sociales    
-            p.mb-5 En las instancias institucionales y sociales, la participación ciudadana involucra la participación activa de diferentes actores, tales como: 
+            p En las instancias institucionales y sociales, la participación ciudadana involucra la participación activa de diferentes actores, tales como: 
 
-            figcaption Nota. Tomada de Wilches-Chaux (2012, p. 24).          
-          .col-lg-7.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/90.png', alt='') 
+            .titulo-sexto.color-acento-contenido
+                h5 Figura 4.
+                span Actores institucionales y sociales en cuanto a la participación ciudadana 
+            .bgw.brad.bsha.p-4                
+              img.img-a(src='@/assets/curso/temas/90.png') 
+              figcaption Nota. Tomada de Wilches-Chaux (2012, p. 24).          
 
 </template>
 

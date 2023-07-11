@@ -13,31 +13,31 @@
       .col-lg-6(data-aos="fade-down")
         .p-4
           h5(data-aos="fade-down") Por lo anterior, se debe prestar atención especial a:
-          ul.lista-ul(data-aos="fade-left")
+          ul.lista-ul.fa-ul(data-aos="fade-left")
             li 
               i.fas.fa-check.c1
-              | Aprendizaje basado en proyectos.
+              p.mb-0 Aprendizaje basado en proyectos.
             li 
               i.fas.fa-check.c1
-              | Aprendizaje basado en problemas.
+              p.mb-0 Aprendizaje basado en problemas.
             li 
               i.fas.fa-check.c1
-              | Flipped classroom (aula invertida).
+              p.mb-0 #[i Flipped classroom] (aula invertida).
             li 
               i.fas.fa-check.c1
-              | Pensamiento de diseño (design thinking).
+              p.mb-0 Pensamiento de diseño (#[i design thinking]).
             li 
               i.fas.fa-check.c1
-              | Gamificación.
+              p.mb-0 Gamificación.
             li 
               i.fas.fa-check.c1
-              | Aprendizaje basado en el pensamiento (thinking based learning).
+              p.mb-0 Aprendizaje basado en el pensamiento (#[i thinking based learning]).
             li 
               i.fas.fa-check.c1
-              | Aprendizaje cooperativo.
+              p.mb-0 Aprendizaje cooperativo.
             li 
               i.fas.fa-check.c1
-              | Método Montessori.         
+              p.mb-0 Método Montessori.         
       .col-lg-6.p-0
         img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/40.png') 
 
@@ -67,34 +67,34 @@
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
           .row(titulo="El <i>e-learning</i>")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/42.png")
               
-            .col-md-7.mb-4.mb-md-0
-              p El concepto de #[i e-learning] (o de otros similares, como teleformación, educación virtual, cursos online, enseñanza flexible, educación web, docencia en línea, entre otros ) es una modalidad de enseñanza-aprendizaje que consiste en el diseño, puesta en práctica y evaluación de un curso o plan formativo desarrollado a través de redes de ordenadores, y puede definirse como una educación o formación ofrecida a individuos que están geográficamente dispersos o separados o que interactúan en tiempos diferidos del docente, empleando los recursos informáticos y de telecomunicaciones. (Area y Adell, 2009, p. 2). 
+            .col-lg-7.mb-4.mb-md-0.my-3
+              p El #[i e-learning] es una modalidad de enseñanza que utiliza redes de ordenadores para impartir cursos o planes formativos a individuos geográficamente dispersos. Esta modalidad de educación se lleva a cabo a través de recursos informáticos y de telecomunicaciones, permitiendo la interacción del alumno con el docente en tiempos diferidos.
           .row(titulo="Versatilidad educativa")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/43.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-md-0.my-3
               p El avance tecnológico y el crecimiento de la tendencia en educación virtual lleva al #[i e-learning] a convertirse, de ahora en adelante, en la herramienta más versátil, económica y, sobre todo, accesible para todos; por eso, los aportes de enseñanza se pueden enmarcar en el contexto del avance y las nuevas revoluciones educativas. 
           .row(titulo="Los aportes del <i>e-learning</i>")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/44.png")
               
-            .col-md-7.mb-4.mb-md-0
-              p Con las nuevas modalidades de enseñanza-aprendizaje, es cada vez más factible extender y facilitar el acceso a la formación de colectivos e individuos que no pueden acceder a la modalidad presencial. También se incrementa la autonomía y responsabilidad del estudiante en su propio proceso de aprendizaje. De la misma manera, es cada vez más posible superar las limitaciones provocadas por la separación en espacio y/o tiempo de profesor-alumnos. 
+            .col-lg-7.mb-4.mb-md-0.my-3
+              p Con las nuevas modalidades de enseñanza-aprendizaje, es cada vez más factible extender y facilitar el acceso a la formación de colectivos e individuos que no pueden acceder a la modalidad presencial. También se incrementa la autonomía y responsabilidad del estudiante en su propio proceso de aprendizaje.  
           .row(titulo="Virtualidad colaborativa")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/45.png")
               
-            .col-md-7.mb-4.mb-md-0
-              p La virtualización de los programas de estudio, en cualquiera de las áreas, ofrece gran potencial interactivo entre profesor-alumno. Asimismo, flexibilidad en los tiempos y espacios educativos, acceso a multiplicidad de fuentes y datos distintos a los ofrecidos por el profesor, en cualquier momento y desde cualquier lugar. Esta nueva forma favorece el aprendizaje colaborativo entre comunidades virtuales de docentes y estudiantes. (Area y Adell, 2009, p. 2). 
+            .col-lg-7.mb-4.mb-md-0.my-3
+              p La virtualización de los programas de estudio, en cualquiera de las áreas, ofrece gran potencial interactivo entre profesor-alumno. Asimismo, flexibilidad en los tiempos y espacios educativos, acceso a multiplicidad de fuentes y datos distintos a los ofrecidos por el profesor, en cualquier momento y desde cualquier lugar. Esta nueva forma favorece el aprendizaje colaborativo entre comunidades virtuales de docentes y estudiantes.
           .row(titulo="Nuevos rumbos")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/46.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-md-0.my-3
               p Debemos entender que el #[i e-learning] es la tendencia que cada día nos es más familiar. Esta nueva modalidad es la que va a conducir la educación por un nuevo rumbo, y cuánto mejor que sirva como herramienta para la educación ambiental, que permite llegar a toda una población o comunidad interesada por preservar el ambiente en el que vive. 
 
     .row.justify-content-center.align-items-center   
@@ -106,7 +106,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p(data-aos="fade-down").mb-0 En el material complementario puede revisar el video “¿Qué es e-learning?”, para conocer más del tema. 
+                  p(data-aos="fade-down").mb-0 En el material complementario puede revisar el video “¿Qué es #[i e-learning]?”, para conocer más del tema. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=I72PK-ffZME" target="_blank")
                     span Ver video

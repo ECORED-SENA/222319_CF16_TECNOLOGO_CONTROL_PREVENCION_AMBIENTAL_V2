@@ -22,7 +22,7 @@
 
         .color-fondo-text.bg-color.mb-5(data-aos="fade-down")
           .color-fondo-text__texto.p-2.ps-4 
-            p Por lo tanto, los estilos de aprendizaje no se refieren realmente a lo que aprenden los estudiantes, sino cómo prefieren aprender y, en muchas ocasiones, cómo les resulta más fácil aprender. Los estilos de aprendizaje son una mezcla de factores cognitivos, afectivos y fisiológicos característicos, que sirven como indicadores relativamente estables de cómo el alumno percibe, interactúa y responde al entorno de aprendizaje.   
+            p Los estilos de aprendizaje no se refieren realmente a lo que aprenden los estudiantes, sino cómo prefieren aprender y, en muchas ocasiones, cómo les resulta más fácil aprender. Los estilos de aprendizaje son una mezcla de factores cognitivos, afectivos y fisiológicos característicos, que sirven como indicadores relativamente estables de cómo el alumno percibe, interactúa y responde al entorno de aprendizaje.
 
         .row.justify-content-start.mb-4        
           .col-auto.bg4.p-3(data-aos="flip-down")

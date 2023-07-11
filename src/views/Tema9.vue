@@ -69,40 +69,40 @@
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
           .row(titulo="Aspectos que debe cubrir")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/102.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.my-3
               p Dentro de los aspectos que puede cubrir una evaluación, se tienen, por ejemplo, el cumplimiento de los objetivos, metas y actividades, a través del uso de sistema de indicadores. El grado de participación asociada a la asistencia, cualificación, número de actores e instituciones involucrados, acuerdos y pactos firmados, compromisos establecidos, agendas concertadas, planes y productos obtenidos y derivados.   
           .row(titulo="Conocimientos, competencias y habilidades")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/103.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.my-3
               p También, la evaluación ha de incluir registro del nivel de conocimiento adquirido, de la adquisición de competencias, habilidades y destrezas desarrolladas, de la efectividad en el uso medios de comunicación y capacitación de empleados, y, desde luego, el impacto en el desarrollo de la cultura ambiental en los individuos, la organización y la sociedad. 
           .row(titulo="Cultura ambiental")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/104.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.my-3
               p En los procesos de promotoría ambiental, interesa, de manera relevante, medir el nivel de cultura ambiental a partir de los valores relacionados con la temática ambiental ejecutada, como la protección del medio ambiente, la prevención de la contaminación, el respeto a la tierra. Igualmente, es posible incluir dentro de la evaluación el análisis frente a las creencias, como variables que anteceden y predicen actitudes y comportamientos en pro del medio ambiente.   
           .row(titulo="Actitudes ambientales adquiridas o potenciadas")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/105.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.my-3
               p Otro elemento para incluir en la evaluación son las actitudes ambientales, ya que tienen una gran influencia sobre el comportamiento cuando otros factores no impiden que este se lleve a cabo, sobre todo en lo referente a los comportamientos individuales de consumo y de participación ambiental. Y finalmente, incluir las conductas pro-ambientales, como grado de conocimiento de las causas y efectos de la problemática ambiental, motivación, capacidad de generar cambios y el grado de convencimiento de que su acción tendrá efectividad (Miranda, 2013).  
           .row(titulo="Mejora continua")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/106.png")
               
-            .col-md-7.mb-4.mb-md-0
-              p Finalmente, es importante ver la evaluación como parte del proceso permanente de mejora continua; como una actividad recurrente para mejorar el desempeño y no como un medio coercitivo (Organización Internacional de Normalización). De allí que esta sirva en todas las etapas para identificar las oportunidades de mejora y poder establecer las acciones preventivas y correctivas que de ella se deriven, permitiendo aprender de los problemas y actuar para que no se vuelvan a presentar (González, 2005).   
+            .col-lg-7.my-3
+              p Es importante ver la evaluación como parte del proceso permanente de mejora continua; como una actividad recurrente para mejorar el desempeño y no como un medio coercitivo (Organización Internacional de Normalización). De allí que esta sirva en todas las etapas para identificar las oportunidades de mejora y poder establecer las acciones preventivas y correctivas que de ella se deriven, permitiendo aprender de los problemas y actuar para que no se vuelvan a presentar (González, 2005).  
           .row(titulo="Fortalecimiento de las áreas del proceso")
-            .col-md-5     
+            .col-lg-5.my-3     
               img.img-mov(src="@/assets/curso/temas/107.png")
               
-            .col-md-7.mb-4.mb-md-0
+            .col-lg-7.my-3
               p Entonces, se deben identificar las áreas con problemas, las disposiciones para mitigar impactos, definir las responsabilidades para investigar y actuar, así como la metodología para identificar la causalidad y la solución de problemas identificados (Toro, 2017).                                                                        
 </template>
 

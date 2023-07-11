@@ -16,7 +16,9 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/NQL-u3FAp3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        figcaption Video. Coordinar campaña ambiental según normativa vigente            
+
 
     p(data-aos="fade-down") Para la elaboración de este componente, se ha abordado a varios autores conocidos en coordinación de campaña ambiental según la normativa vigente, de los cuales se han citado y referenciado conceptos y ejemplos para los fines educativos. Se entiende que el conocimiento es social y, por lo tanto, debe ser utilizado por aquellos que necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos que estén interesados en acercarse a asuntos básicos de prevención y control ambiental.                  
 </template>

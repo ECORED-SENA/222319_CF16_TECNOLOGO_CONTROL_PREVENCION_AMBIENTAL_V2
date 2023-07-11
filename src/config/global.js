@@ -112,6 +112,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -127,28 +132,28 @@ export default {
     {
       tema: '1. La campaña ambiental',
       referencia:
-        'TheEcoFace. (2012). Responsabilidad Ambiental. [Video]. YouTube.',
+        'TheEcoFace. (2012). <i>Responsabilidad Ambiental</i>. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OGC5dhILjpU',
     },
     {
       tema: '2.Comunicación asertiva en procesos de promotoría ambiental',
       referencia:
-        'Ortiz, W. (2017). Comunicación verbal y no verbal [Video]. YouTube.',
+        'Ortiz, W. (2017).<i> Comunicación verbal y no verbal</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=UJ9Fyu5ew90',
     },
     {
       tema: '3. Métodos contemporáneos de enseñanza',
       referencia:
-        'Plataforma Elearning. (2017). ¿Qué es elearning? [Video]. YouTube.',
+        'Plataforma Elearning. (2017). <i>¿Qué es elearning?</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=I72PK-ffZME',
     },
     {
       tema: '3. Métodos contemporáneos de enseñanza',
       referencia:
-        'Cursos On-Line Masivos. (2018). Métodos de enseñanza [Video]. YouTube.',
+        'Cursos On-Line Masivos. (2018). <i>Métodos de enseñanza</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=UFZwIEKe-y4',
     },
@@ -350,14 +355,14 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del equipo',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
+          cargo: 'Responsable de Línea de Producción',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
@@ -429,14 +434,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Zuleidy María Ruiz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },
