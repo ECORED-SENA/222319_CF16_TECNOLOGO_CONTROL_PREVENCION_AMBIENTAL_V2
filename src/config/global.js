@@ -299,7 +299,8 @@ export default {
     {
       referencia:
         'Orjuela, B. (2020). <i>Guía de implementación de responsabilidad social empresarial en empresas que buscan competitividad sostenible</i>. Universidad Militar Nueva Granada.',
-      link: 'http://hdl.handle.net/10654/36464.',
+      link:
+        'https://repository.unimilitar.edu.co/bitstream/handle/10654/36464/OrjuelaForeroBleynerRocio2020.pdf?sequence=3&isAllowed=y',
     },
     {
       referencia:
