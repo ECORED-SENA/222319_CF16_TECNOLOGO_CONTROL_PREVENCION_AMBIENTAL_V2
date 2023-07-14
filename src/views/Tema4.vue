@@ -61,7 +61,7 @@
       .col-lg-10
         p(data-aos="fade-down").mb-5 Estos actores pueden ser clasificados de diversas maneras según su papel en la sociedad y sus características específicas. A continuación se presentan algunas de las formas de caracterizar a los actores sociales:
         h4(data-aos="fade-down").text-center.mb-4 Caracterización  de los actores sociales: 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.png')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.png' alt='La figura ilustra la caracterización de los actores sociales, mostrando aspectos claves que definen su actuación en la sociedad. Estos incluyen su campo de intervención, la función que cumplen, su representatividad y el poder que ostentan. También se consideran los recursos que poseen, los objetivos que persiguen, las acciones que desarrollan y los resultados que obtienen. Finalmente, se identifican las relaciones que han tejido con otros actores para implementar sus estrategias.')
 
     .row.justify-content-start.mb-4        
       .col-auto.bg4.p-3(data-aos="flip-down")

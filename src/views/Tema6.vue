@@ -21,7 +21,7 @@
 
     SlyderF.text-center(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/72.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/72.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -29,7 +29,7 @@
             p.mb-0 La Responsabilidad Social Empresarial (RSE) es el compromiso de las organizaciones, el cual toca toda su gestión y busca lograr positivos impactos en los diferentes sectores de la sociedad.    
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/73.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/73.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -37,7 +37,7 @@
             p.mb-0 Este compromiso asumido permite gestionar de manera adecuada los impactos sociales, económicos y ecológicos con sus partes interesadas, el ambiente y la sociedad en su conjunto (Orjuela, 2020).  
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/74.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/74.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -45,7 +45,7 @@
             p.mb-0 A nivel nacional, el Instituto Colombiano de Normas Técnicas ICONTEC (2019) ha publicado la Norma GTC- ISO 26000; aunque esta norma no es certificable, sí orienta a cualquier tipo de organización que de manera voluntaria quiera implementar la RSE.    
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/75.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/75.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5

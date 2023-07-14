@@ -108,7 +108,7 @@
 
         h4(data-aos="fade-down").text-center.mb-4 Escalera de la participación, adaptada de Geilfus
 
-        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/85.svg', alt='')
+        img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/85.svg', alt='La "Escalera de la Participación" de Geilfus representa de manera visual y gradual la participación ciudadana y su influencia en procesos institucionales, sociales y organizacionales. Se inicia en la "pasividad", donde las personas solo reciben información, y progresa a través de etapas que incluyen suministro de información, consulta, incentivos, participación funcional e interactiva. Culmina en "autodesarrollo", donde los grupos locales toman iniciativas propias sin esperar intervenciones externas. Esta escalera refleja la ruta hacia la autonomía y el empoderamiento progresivo de la comunidad.')
                
         .row.justify-content-between.mx-0.bg16.mb-3(data-aos="flip-down")
           .col-auto.p-0

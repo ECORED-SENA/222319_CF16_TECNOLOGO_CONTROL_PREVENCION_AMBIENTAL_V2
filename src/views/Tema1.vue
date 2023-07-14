@@ -74,7 +74,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg')   
       .col-lg-6
         .tarjeta.tarjeta-avatar.h-100
-          img.img-a.img-t(src='@/assets/curso/temas/5.svg' alt='AvatarTop')
+          img.img-a.img-t(src='@/assets/curso/temas/5.svg' alt='')
           .tarjeta.color-primario.bg5.ts.h-100
             .p-4.pt-5
               p.mb-0 Para que una campaña ambiental tenga un propósito más holístico sobre el medio ambiente que se afecta, es importante que la campaña genere en los receptores del mensaje, un cambio de conducta, actitud y, sobre todo, se cree una conciencia más allá del concepto de hacer las cosas bien: entender que cada acción conlleva una consecuencia, que afecta a toda la sociedad directamente.  

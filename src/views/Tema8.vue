@@ -36,28 +36,28 @@
 
     SlyderF.text-center(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/93.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/93.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
             h4 Aprendizaje activo 
             p.mb-0 En los aprendizajes activos, los estudiantes disfrutan de nuevas experiencias, no son escépticos y poseen una mente abierta.    
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/94.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/94.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
             h4 Aprendizaje reflexivo 
             p.mb-0 En los aprendizajes reflexivos, los individuos observan las experiencias desde distintos ángulos. También analizan datos, no sin antes haber reflexionado con determinación.         
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/95.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/95.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
             h4 Aprendizaje teórico 
             p.mb-0 En el aprendizaje teórico, los aprendices suelen tener una personalidad perfeccionista. También son analíticos, pero les gusta sintetizar y buscan integrar los hechos en teorías coherentes, sin dejar cabos sueltos y preguntas sin respuesta.    
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/96.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/96.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5

@@ -24,7 +24,7 @@
 
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/61.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/61.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -32,7 +32,7 @@
             p.mb-0 Sirven de insumo para identificar las necesidades del grupo.       
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/62.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/62.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -40,7 +40,7 @@
             p.mb-0 Ajustan el proceso o acción de toma de decisiones y aplicación de acciones de mejora, para futuras intervenciones con relación a los vacíos y fortalezas en lo referente a información, capacitación, formación y toma de conciencia.  
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/63.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/63.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -48,7 +48,7 @@
             p.mb-0 Permiten detectar las brechas y, así, poder establecer las estrategias pedagógicas pertinentes que le den respuesta a los desafíos en cuanto a lo procedimental y actitudinal.  
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/64.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/64.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -56,7 +56,7 @@
             p.mb-0 Como su propósito es detectar las desviaciones a tiempo, aseguran establecer, de manera temprana, las acciones correctivas que permitan ajustar y encauzar el proceso de manera eficaz.  
 
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/65.svg' alt='AvatarTop')
+        img.img-a.img-t(src='@/assets/curso/temas/65.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4.pt-5
@@ -118,7 +118,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Método para establecer indicadores medio ambientales   
-        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/70.svg')
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/70.svg' alt='La figura representa el método para establecer indicadores medioambientales. Primero, se tienen en cuenta las condiciones medioambientales como: análisis de la situación, establecimiento de un sistema de indicadores, recopilación de datos, aplicación de los indicadores y revisión del sistema de indicadores. Finalmente, se realiza el establecimiento de objetivos y medios.')
         figcaption Nota. Tomada de IHOBE (1999, p. 11). 
 </template>
 
