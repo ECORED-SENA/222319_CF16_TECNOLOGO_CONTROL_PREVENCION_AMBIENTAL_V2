@@ -14,7 +14,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
           span  Criterios de la RSE
-        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg')
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg' alt='La figura representa los criterios de la Responsabilidad Social Empresarial. En primer lugar, está la rendición de cuentas, que se basa en la transparencia y el respeto por la ley, ejes fundamentales para mantener una relación de confianza con todas las partes interesadas. Además, se destaca el respeto por la normatividad internacional de comportamiento y los derechos humanos, lo que establece una conducta ética y justa en todos los niveles de la organización. Otra parte crucial de estos criterios es la Responsabilidad Social y Ambiental en la Cadena de Valor de la Empresa, que implica una gestión consciente y respetuosa del impacto que la empresa tiene en la sociedad y el medio ambiente, tanto interna como externamente. Por último, el respeto por los intereses de los stakeholders y la Responsabilidad Social tanto al interior como al exterior de la empresa subrayan el compromiso de la organización con la creación de valor para todos sus miembros y la sociedad en general.')
         figcaption Nota. Adaptado de Escuela Nacional de Instructores (2016, p. 24).
 
     p(data-aos="fade-down").mb-5 Se debe tener en cuenta: 

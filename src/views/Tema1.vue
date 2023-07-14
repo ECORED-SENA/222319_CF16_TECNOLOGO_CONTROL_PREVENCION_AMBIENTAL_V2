@@ -71,7 +71,7 @@
           h5 Figura 1.
           span Características de la campaña       
         .bg6.p-4
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg')   
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg' alt='La imagen representa las tres características de la campaña: cambio de actitud, cambio de conducta y creación de conciencia.')   
       .col-lg-6
         .tarjeta.tarjeta-avatar.h-100
           img.img-a.img-t(src='@/assets/curso/temas/5.svg' alt='')
