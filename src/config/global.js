@@ -413,7 +413,7 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julian Ramirez Benitez',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
@@ -424,8 +424,26 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Emilsen Alfonso Bautista',
+          cargo: 'Actividad Didáctica',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey ',
+          cargo: 'Locución',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        },
+        {
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
