@@ -92,25 +92,25 @@
               ul.lista-ul.fa-ul(data-aos="fade-left")
                 li 
                   i.fas.fa-check.c1
-                  | Diagnóstico
+                  | Diagnóstico.
                 li 
                   i.fas.fa-check.c1
-                  | Identificación de la población
+                  | Identificación de la población.
                 li 
                   i.fas.fa-check.c1
-                  | Plantear objetivos
+                  | Plantear objetivos.
                 li 
                   i.fas.fa-check.c1
-                  | Definir estrategias
+                  | Definir estrategias.
                 li 
                   i.fas.fa-check.c1
-                  | Difundir mensajes
+                  | Difundir mensajes.
                 li 
                   i.fas.fa-check.c1
-                  | Realizar la campaña
+                  | Realizar la campaña.
                 li 
                   i.fas.fa-check.c1
-                  | Evaluar la campaña            
+                  | Evaluar la campaña.            
           .col-lg-7.col-md-8.p-0
             img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='') 
 

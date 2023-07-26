@@ -70,7 +70,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Con la promulgación de la Constitución de 1991, se estableció que el estado debe garantizar la protección de la biodiversidad y la integridad del ambiente, así como la planeación para el aprovechamiento y manejo del patrimonio natural del país (Ministerio Editorial, 1995). Para dar cumplimento a los mandatos dados por la constitución, se establecieron principios orientadores de la gestión ambiental, a través de la Ley 99 de 1993. Con la expedición de esta norma, se organizó el Sistema Nacional Ambiental (SINA), se creó el Ministerio del Medio Ambiente con su estructura orgánica y se establecieron las funciones de las Corporaciones Autónomas Regionales (CAR).         
 
-    p(data-aos="fade-down").text-center.mb-5 También se establecieron algunos mecanismos de participación rocesos de participac en materia ambiental, como son:
+    p(data-aos="fade-down").text-center.mb-5 También se establecieron algunos mecanismos de participación, en materia ambiental, como son:
 
     .row.justify-content-center.align-items-center.mb-5.bg12.p-4(data-aos="fade-right")           
       .col-lg-10

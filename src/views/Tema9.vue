@@ -57,7 +57,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/101.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 A través de una lista de chequeo, se pueden evaluar aprendizajes, conductas, atributos, destrezas, acciones o procedimientos. Actividades que se pueden evaluar con este instrumento: desempeño en una tarea concreta (técnica, artística o científica), productos desarrollados en el campo, un laboratorio, un taller, entre otras. Se recomienda su uso para evaluación cualitativa, ya que permite obtener el nivel de logro, sea individual o grupa 
+        p.mb-0 A través de una lista de chequeo, se pueden evaluar aprendizajes, conductas, atributos, destrezas, acciones o procedimientos. Actividades que se pueden evaluar con este instrumento: desempeño en una tarea concreta (técnica, artística o científica), productos desarrollados en el campo, un laboratorio, un taller, entre otras. Se recomienda su uso para evaluación cualitativa, ya que permite obtener el nivel de logro, sea individual o grupal 
 
     .row.justify-content-start.mb-4        
       .col-auto.bg4.p-3(data-aos="flip-down")

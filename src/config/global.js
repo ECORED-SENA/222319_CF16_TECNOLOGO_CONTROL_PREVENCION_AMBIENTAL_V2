@@ -137,7 +137,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=OGC5dhILjpU',
     },
     {
-      tema: '2.Comunicación asertiva en procesos de promotoría ambiental',
+      tema: '2. Comunicación asertiva en procesos de promotoría ambiental',
       referencia:
         'Ortiz, W. (2017).<i> Comunicación verbal y no verbal</i> [Video]. YouTube.',
       tipo: 'Video',
